@@ -1,1 +1,8 @@
+REFLECTION
+Most Challenging Part:
+The most challenging part was designing the preprocessing pipeline, especially ensuring fairness and data quality. Healthcare data is often messy (missing values, inconsistent formats), and identifying potential biases without clinical expertise adds to the complexity.
 
+Improvement with More Time/Resources:
+We would collaborate with clinicians to better understand which features truly impact readmission risk.
+With more resources, I’d invest in automated data cleaning tools and ethical AI auditing frameworks to enhance both data quality and fairness.
+I’d also experiment with multiple model types using a robust MLOps setup to evaluate performance trade-offs at scale.
